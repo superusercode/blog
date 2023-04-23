@@ -79,6 +79,10 @@ params:
       url: "https://github.com/superusercode"
     - name: mastodon
       url: "https://mastodon.social/@superusercode"
+    - name: steam
+      url: "https://steamcommunity.com/id/superusercode/"
+    - name: youtube
+      url: "https://www.youtube.com/@superusercode"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -110,10 +114,7 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: superusercode.com
-      url: https://superusercode.com
-      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
