@@ -82,6 +82,10 @@ params:
       url: "https://steamcommunity.com/id/superusercode/"
     - name: youtube
       url: "https://www.youtube.com/@superusercode"
+    - name: keybase
+      url: "https://keybase.io/superusercode"
+    - name: gitlab
+      url: "https://gitlab.com/superusercode"
 
   cover:
     hidden: true # hide everywhere but not in structured data
